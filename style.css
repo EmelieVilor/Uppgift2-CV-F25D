@@ -83,6 +83,10 @@ ul a:active {
     color: var(--gray);
 }
 
+.active {
+    color: var(--blue);
+}
+
 .menu {
     display: flex;
     flex-direction: row;
@@ -441,6 +445,10 @@ text-align:justify;
     width: 350px;
     object-fit: cover;
     border-radius: 62% 38% 55% 45% / 50% 33% 67% 50%;
+}
+
+.about_text h3{
+text-align: justify;
 }
 
 
